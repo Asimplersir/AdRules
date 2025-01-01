@@ -1,6 +1,6 @@
 # 规则名称: AdBlock
-# 规则数量: 121409
-# 更新时间: 2025-01-01 19:57:02
+# 规则数量: 121413
+# 更新时间: 2025-01-02 07:56:49
 
 no_resolve: true
 domain_set:
@@ -3150,6 +3150,7 @@ domain_suffix_set:
 - 8f2b4c98e7.com
 - 8f30b5f042.58c526d99b.com
 - 8feichai.com
+- 8fo.icu
 - 8gra3.icu
 - 8hacks.org
 - 8hj500ro4t7.groovepages.com
@@ -26783,6 +26784,7 @@ domain_suffix_set:
 - crfjxfoe.xyz
 - crfuxo.foeth.com
 - cribbewildered.com
+- cridotty.com
 - criesstarch.com
 - crigroik.com
 - crimblepitbird.shop
@@ -81593,6 +81595,7 @@ domain_suffix_set:
 - qcjslm.com
 - qckeumrwft.xyz
 - qcl777.com
+- qclimiy.top
 - qcmm01.com
 - qcmm05.com
 - qcmxuy.hardloop.de
@@ -110570,6 +110573,7 @@ domain_suffix_set:
 - uk.partner.equifax.co.uk
 - uk.realestate.bnpparibas
 - uk.verintsystemsinc.com
+- uk0.icu
 - uk08i.top
 - uk529u0.cn
 - ukadit.ru
