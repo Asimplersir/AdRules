@@ -1,6 +1,6 @@
 # 规则名称: AdBlock
-# 规则数量: 121755
-# 更新时间: 2025-01-10 07:56:59
+# 规则数量: 121812
+# 更新时间: 2025-01-10 19:57:00
 
 no_resolve: true
 domain_set:
@@ -1787,6 +1787,7 @@ domain_suffix_set:
 - 3ts.icu
 - 3twentyfour.xyz
 - 3u4zyeugi.com
+- 3uo.fun
 - 3v7c7y.online
 - 3vp.icu
 - 3wn3w3skxpym.round.t3.gg
@@ -5485,6 +5486,7 @@ domain_suffix_set:
 - abelestheca.com
 - abemms.atp-autoteile.de
 - abenshishabi.com
+- abernc.xyz
 - abethow.com
 - abetterinternet.com
 - abgeobalancer.com
@@ -7110,6 +7112,7 @@ domain_suffix_set:
 - adenza.dev
 - ader.mobi
 - adersaucho.net
+- adeumssp.com
 - adevbom.com
 - adevents.msn.com
 - adeventtracker.spotify.com
@@ -10433,6 +10436,7 @@ domain_suffix_set:
 - agmtrk.com
 - agnes.waz.de
 - agnrcrpwyyn.com
+- agoniedlaissez.com
 - agoodm.m.taobao.com
 - agooxouy.net
 - agoqaa.stockmann.com
@@ -11000,6 +11004,7 @@ domain_suffix_set:
 - albumleaked.com
 - albumshrugnotoriety.com
 - alcatza.com
+- alcaydecubages.com
 - alchemysocial.com
 - alcidkits.com
 - alclick.com
@@ -11749,6 +11754,7 @@ domain_suffix_set:
 - analytics-gw.games.wanmei.com
 - analytics-hub.3plearning.com
 - analytics-ingestion-production.tubitv.com
+- analytics-ingestion-v3.main-production-custom.production.k8s.tubi.io
 - analytics-ingestion.pbpms.de
 - analytics-ingestion.production-public.tubi.io
 - analytics-ingress-global.bitmovin.com
@@ -12847,7 +12853,6 @@ domain_suffix_set:
 - animaterecover.com
 - animationfullmovie.com
 - animaux.oworld.fr
-- animeshoppers.com
 - animikii-ana.com
 - animits.com
 - animoseelegy.top
@@ -15531,6 +15536,7 @@ domain_suffix_set:
 - atriblethetch.com
 - atris.xyz
 - atrkmankubf.com
+- atrochaxctl.shop
 - atrociouspsychiatricparliamentary.com
 - atrocityfingernail.com
 - ats.alot.com
@@ -16415,7 +16421,6 @@ domain_suffix_set:
 - b.iheart.southwest.com
 - b.itravel.southwest.com
 - b.iwanna.southwest.com
-- b.karte.io
 - b.koodomobile.com
 - b.kouke5.com
 - b.law.com
@@ -18105,6 +18110,7 @@ domain_suffix_set:
 - bfg.loanzify.app
 - bfhredeemcodes.com
 - bfhueh.top
+- bfiauqscsotjcy.com
 - bfijteodglun.com
 - bfjhhdmznjh.club
 - bfjk360.com
@@ -18168,6 +18174,7 @@ domain_suffix_set:
 - bhcumsc.com
 - bhddsiuo.com
 - bhgbqh.crocs.de
+- bhgzwqy.top
 - bhigziaww.com
 - bhjuy10.com
 - bhkfnroleqcjhm.xyz
@@ -18516,6 +18523,7 @@ domain_suffix_set:
 - biuskye.com
 - biv.gazeta.pl
 - bivos.xyz
+- biwipuque.com
 - biz-offer.com
 - biz.coface.com
 - biz.gexing.com
@@ -21643,6 +21651,7 @@ domain_suffix_set:
 - catwenbat.com
 - catwrite.com
 - caubichofus.com
+- caugrithoowhu.net
 - caugrush.com
 - caukoaph.net
 - cauldronrepellentcanvass.com
@@ -23953,6 +23962,8 @@ domain_suffix_set:
 - clientlog.midomi.com
 - clientlog.music.163.com
 - clientlog3.music.163.com
+- clientlogdep.music.163.com
+- clientlogsf.music.163.com
 - clientmetrics-augmentum.kik.com
 - clientmetrics-pa.googleapis.com
 - clientmetrics.kik.com
@@ -26905,6 +26916,7 @@ domain_suffix_set:
 - crm.masonmac.com
 - crm.toyotago.com.ec
 - crm.velocify.com
+- crm2.tbg-lmtd.xyz
 - crm4d.com
 - crmcommunications.progressive.com
 - crmentjg.com
@@ -28472,6 +28484,7 @@ domain_suffix_set:
 - damuzhi118.com
 - dan.danimillions.com
 - dana123.com
+- danaaman.xyz
 - danainstan.xyz
 - danapintar.club
 - danban.com
@@ -32026,6 +32039,7 @@ domain_suffix_set:
 - ddfskjdfh.site
 - ddgjjj.com
 - ddhdyw.pikapolonica.si
+- ddhjabqe.icu
 - ddijapp.com
 - ddioce.wolverine.com
 - ddkf.xyz
@@ -36456,6 +36470,7 @@ domain_suffix_set:
 - eit3.destinia.nl
 - eiteribesshaints.com
 - eitfromtheothe.org
+- eitilbyr.com
 - eitkrg.loriblu.com
 - eiuoom.xyz
 - eiv.baidu.cn
@@ -37751,6 +37766,7 @@ domain_suffix_set:
 - epipialbeheira.com
 - episodesaison.com
 - epiv.cardlytics.com
+- epizzoacoses.com
 - epizzoatauter.com
 - eplayleauge.com
 - eplndhtrobl.com
@@ -37853,6 +37869,7 @@ domain_suffix_set:
 - ercamj.motogp.com
 - ercnnier.com
 - ercoeteasacom.com
+- ercoils.com
 - erdeallyighab.com
 - erdecisesgeorg.info
 - erdreamsofcryin.info
@@ -38381,6 +38398,7 @@ domain_suffix_set:
 - event.evtm.53.com
 - event.filum.ai
 - event.geniee-search.net
+- event.getblue.io
 - event.gitexnigeria.ng
 - event.grassicpas.com
 - event.hackle.io
@@ -40850,6 +40868,7 @@ domain_suffix_set:
 - fishingdaily.shop
 - fishingstuddy.com
 - fishingtouching.com
+- fishmangyral.com
 - fishybackgroundmarried.com
 - fishyscalpelweight.com
 - fishyshortdeed.com
@@ -41027,6 +41046,7 @@ domain_suffix_set:
 - fleckfound.com
 - fleenaive.com
 - fleet-eml.postmates.com
+- fleetenreplevy.com
 - fleetingretiredsafe.com
 - fleetingtrustworthydreams.com
 - fleraprt.com
@@ -42705,6 +42725,7 @@ domain_suffix_set:
 - fundingexceptingarraignment.com
 - fundraising.centuryresources.com
 - fundsdoge.org
+- funfilenow.com
 - fungamecheats.com
 - fungames.vip
 - fungiaoutfame.com
@@ -47509,6 +47530,7 @@ domain_suffix_set:
 - gxusko.pinkpanda.hu
 - gxxie.com
 - gxxoop.bussgeld-info.de
+- gxxyclub.top
 - gxyaxf.pixartprinting.be
 - gxyjpy.krenobat.fr
 - gxyojn.underarmour.fr
@@ -48251,6 +48273,7 @@ domain_suffix_set:
 - harib-eir.info
 - haribdathesea.com
 - hariheadacheasperity.com
+- harksifrit.com
 - harman.epoise.com
 - harmantest.epoise.com
 - harmfulsong.pro
@@ -57907,6 +57930,7 @@ domain_suffix_set:
 - lackadaisicalkite.com
 - lackawopsik.xyz
 - lacklesslacklesscringe.com
+- lacmoudoossaiss.net
 - lacquerreddeform.com
 - lactantsurety.top
 - lactolwant.com
@@ -58256,6 +58280,7 @@ domain_suffix_set:
 - lb5o9.com
 - lbc.lesbonscommerces.fr
 - lbfuvlyp.icu
+- lbfwxr.icu
 - lbgrwm.zolta.pl
 - lbjekygz.icu
 - lbjxsort.xyz
@@ -62430,6 +62455,7 @@ domain_suffix_set:
 - lqsowt.mona-mode.fr
 - lqtiwevsan.com
 - lqvfkk.sosyopix.com
+- lqweqk61qlih.click
 - lqxjrk.fbs.com
 - lr-in-prod.com
 - lr-in.com
@@ -63467,6 +63493,7 @@ domain_suffix_set:
 - majesticsecondary.com
 - majestyafterwardprudent.com
 - majestybrightennext.com
+- majile.vip
 - majime-site-rk.com
 - majomalonic.com
 - major-video.click
@@ -66864,6 +66891,7 @@ domain_suffix_set:
 - metrics.agilent.com
 - metrics.agtechnavigator.com
 - metrics.aia.com
+- metrics.aimetric.net
 - metrics.ainews.kz
 - metrics.airasia.com
 - metrics.aircanada.com
@@ -68796,6 +68824,7 @@ domain_suffix_set:
 - mintegral.com
 - mintegral.net
 - minterhazes.com
+- mintmanrouter.com
 - mintmanunmanly.com
 - mintrace.com
 - mintybug.com
@@ -70107,6 +70136,9 @@ domain_suffix_set:
 - msg2.video.ptqy.gitv.tv
 - msg2.video.qiyi.com
 - msgapp.com
+- msgclick.top
+- msgclick.uno
+- msgclick.xyz
 - msgose.com
 - mshago.com
 - mshelp247.weebly.com
@@ -70143,7 +70175,6 @@ domain_suffix_set:
 - mssdk-sg.tiktok.com
 - mssdk-va.byteoversea.com
 - mssdk.bytedance.com
-- mssdk.volces.com
 - mssheng.com
 - mssql2.aomg5bzv7.com
 - mst.rnd.de
@@ -70370,6 +70401,7 @@ domain_suffix_set:
 - musicoholics.com
 - musikzoo.com
 - musique-france.com
+- musk-event.xyz
 - musk-project.com
 - musk.plus
 - muskgives.net
@@ -71232,7 +71264,6 @@ domain_suffix_set:
 - navi23.ru
 - navi24.com
 - navi24.ru
-- navi29.ru
 - navi3.com
 - navi30.ru
 - navi32.com
@@ -71242,7 +71273,6 @@ domain_suffix_set:
 - navi38.ru
 - navi39.ru
 - navi4.com
-- navi42.ru
 - navi45.ru
 - navi5.com
 - navi50.com
@@ -71613,6 +71643,7 @@ domain_suffix_set:
 - netaffiliation.com
 - netagent.cz
 - netani.ru
+- netapm.music.163.com
 - netavenir.com
 - netballgame.com
 - netbulvar.eu
@@ -72256,6 +72287,7 @@ domain_suffix_set:
 - nip5.com
 - nip57.com
 - nip69.com
+- nip89.com
 - nipcrater.com
 - nipperathymy.life
 - nipplelair.com
@@ -72954,6 +72986,7 @@ domain_suffix_set:
 - nstclj.rubylane.com
 - nsteq.queensland.com
 - nstoodthestatu.info
+- nstool.netease.com
 - nsultingcoe.net
 - nswtojdi.icu
 - nszeybs.com
@@ -73201,6 +73234,7 @@ domain_suffix_set:
 - nyetm2mkch.com
 - nyfstb.xyz
 - nygwcwsvnu.com
+- nyhdv.com
 - nyhed.danskespil.dk
 - nyihcpzdloe.com
 - nyittc.com
@@ -74217,6 +74251,7 @@ domain_suffix_set:
 - olivecough.com
 - olivedinflats.space
 - olivednitrils.com
+- oliver.pub
 - oljjiplpyo.com
 - olkhtegk.com
 - olklgn.jh-profishop.de
@@ -78329,6 +78364,7 @@ domain_suffix_set:
 - pierlinks.com
 - pierrapturerudder.com
 - piet2eix3l.com
+- pietasylphon.com
 - pietexture.com
 - pietyharmoniousablebodied.com
 - pig.civicplatform.org
@@ -81288,6 +81324,7 @@ domain_suffix_set:
 - publicidees.com
 - publiclyphasecategory.com
 - publicsofa.com
+- publictelemetry.tophat.com
 - publicunloadbags.com
 - publift.com
 - publish.tagstorm.com
@@ -82393,6 +82430,7 @@ domain_suffix_set:
 - qrtqsy.freshlycosmetics.com
 - qrttfmo.cn
 - qrubv.buzz
+- qruqon.com
 - qrvsnt.citygrounds.com
 - qrwcss.xyz
 - qrwkkcyih.xyz
@@ -82968,6 +83006,7 @@ domain_suffix_set:
 - raigroashoan.net
 - raijigrip.com
 - raikijausa.net
+- railingperformance.com
 - railroadfatherenlargement.com
 - railroadlineal.com
 - railroadmanytwitch.com
@@ -102561,6 +102600,7 @@ domain_suffix_set:
 - tbjasp.cyrillus.de
 - tbjrtcoqldf.site
 - tbknig.ecc.jp
+- tbl258ym4.cc
 - tblnreehmapc.com
 - tbm.snssdk.com
 - tbmgyz.centerparcs.de
@@ -103893,6 +103933,7 @@ domain_suffix_set:
 - thqgxvs.com
 - thraka.openapp.link
 - thrashbomb.com
+- thratchassman.com
 - threatdetect.org
 - threatenedfallenrueful.com
 - threechurch.com
@@ -104063,6 +104104,7 @@ domain_suffix_set:
 - tiglon.davidroessli.com
 - tiglonhominy.top
 - tignuget.net
+- tigreanreshew.com
 - tigroulseedsipt.net
 - tihdjd.xyz
 - tiijdxto.com
@@ -107465,6 +107507,7 @@ domain_suffix_set:
 - tracking.afffhelp.com
 - tracking.agora.io
 - tracking.aifsabroad.com
+- tracking.aimetric.net
 - tracking.air-worldwide.com
 - tracking.aita.gov.vn
 - tracking.aldi-international.com
@@ -108889,6 +108932,7 @@ domain_suffix_set:
 - tripotbespit.digital
 - tripphloems.com
 - trippinger.com
+- tripsisvellums.com
 - tripsstyle.com
 - tripsthorpelemonade.com
 - trisectdoigt.top
@@ -109426,6 +109470,7 @@ domain_suffix_set:
 - trk.tu-auto.com
 - trk.tulipan.es
 - trk.tuthillpump.com
+- trk.twofeeds.com
 - trk.ummhealth.org
 - trk.underarmour.com
 - trk.updates.juilliard.edu
@@ -109941,6 +109986,7 @@ domain_suffix_set:
 - ttoc8ok.com
 - ttquix.xyz
 - ttributoraheadyg.org
+- ttrk.io
 - ttroytj33.fun
 - ttrruq749.shop
 - tttd.douglas.at
@@ -110288,6 +110334,7 @@ domain_suffix_set:
 - twiteers.com
 - twithack.net
 - twittad.com
+- twitter.sx
 - twitterprofilespy.info
 - twitterr.com
 - twiz.wizaly.co.uk
@@ -110468,6 +110515,7 @@ domain_suffix_set:
 - u.txuesoft.cn
 - u.uc123.com
 - u.ucfly.com
+- u.umax-pro.ru
 - u.zhugeapi.net
 - u0054.com
 - u0056.com
@@ -111481,6 +111529,7 @@ domain_suffix_set:
 - untrk.xyz
 - untrol.com
 - untropiuson.com
+- untrpyxkvibfq.com
 - untruecharacterizepeople.com
 - unugilpcyxoep.com
 - unusedquestion.com
@@ -112162,6 +112211,7 @@ domain_suffix_set:
 - uyyksmmlipvcvj.com
 - uyyquln.icu
 - uz-analysis.akamaized.net
+- uz-kqtecqs.space
 - uzauxaursachoky.net
 - uzd1.madeindesign.com
 - uzdhsjuhrw.com
@@ -113511,6 +113561,7 @@ domain_suffix_set:
 - volcanoexhibitmeaning.com
 - volcanostricken.com
 - volceapplog.com
+- volces.com
 - volcomofficial.com
 - voldarinis.com
 - vole.contemporaryartlibrary.org
@@ -115485,6 +115536,7 @@ domain_suffix_set:
 - whugesto.net
 - whulrima.xyz
 - whulsaux.com
+- whunpainty.com
 - whupsoza.xyz
 - whutchey.com
 - whuwoawain.com
@@ -119712,6 +119764,7 @@ domain_suffix_set:
 - ydwrkwwqytj.xyz
 - ydybwjpa.xyz
 - ydzlen.mebloo.pl
+- ye.dun.163yun.com
 - ye185hcamw.com
 - yeabble.com
 - yeah16.com
@@ -119824,6 +119877,7 @@ domain_suffix_set:
 - ygwdai.cn
 - ygxgk.cn
 - ygxqjz.intersport.fi
+- ygz1pd7.online
 - ygzkedoxwhqlzp.com
 - ygzqlnt.cn
 - yh.zg-zxzx.net
@@ -120742,6 +120796,7 @@ domain_suffix_set:
 - zaiwihouje.com
 - zaiyuanyqq.com
 - zaizaigut.net
+- zaizavoulooruta.xyz
 - zajh3a.xyz
 - zajpkgpmgll.com
 - zajukrib.net
@@ -121566,6 +121621,7 @@ domain_suffix_set:
 - zuciwang.com
 - zucks.net
 - zuclcijzua.com
+- zucoagorsout.com
 - zucqcozmv.com
 - zudicy.guatafac.es
 - zudjdiy.com
@@ -121581,6 +121637,7 @@ domain_suffix_set:
 - zugnogne.com
 - zugo.com
 - zuhempih.com
+- zuisinchills.shop
 - zuisinservo.top
 - zuixinyiqi.com
 - zujibumlgc.com
