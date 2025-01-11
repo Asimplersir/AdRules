@@ -1,6 +1,6 @@
 # 规则名称: Antiad
-# 规则数量: 121810
-# 更新时间: 2025-01-11 07:56:52
+# 规则数量: 121833
+# 更新时间: 2025-01-11 19:56:57
 
 payload:
   - DOMAIN,0.101tubeporn.com
@@ -3473,6 +3473,7 @@ payload:
   - DOMAIN,9mbv.com
   - DOMAIN,9miwo.com
   - DOMAIN,9ohy40tok.com
+  - DOMAIN,9pub.io
   - DOMAIN,9purdfe9xg.com
   - DOMAIN,9r7i9bo06157.top
   - DOMAIN,9s4l9nik.de
@@ -16293,6 +16294,7 @@ payload:
   - DOMAIN,ayensexilic.com
   - DOMAIN,ayga.xyz
   - DOMAIN,aygccr.eonet.jp
+  - DOMAIN,ayiztaefkfzs.com
   - DOMAIN,aykibra.cn
   - DOMAIN,aykqyjzbkkkra.top
   - DOMAIN,aylarl.com
@@ -18171,6 +18173,7 @@ payload:
   - DOMAIN,bhcsub.sankeishop.jp
   - DOMAIN,bhcumsc.com
   - DOMAIN,bhddsiuo.com
+  - DOMAIN,bhegilut.com
   - DOMAIN,bhgbqh.crocs.de
   - DOMAIN,bhgzwqy.top
   - DOMAIN,bhigziaww.com
@@ -25538,6 +25541,7 @@ payload:
   - DOMAIN,consent.dermogrup.com
   - DOMAIN,consent.digiapi.com
   - DOMAIN,consent.dropbox.com
+  - DOMAIN,consent.dw.com
   - DOMAIN,consent.economist.com
   - DOMAIN,consent.finanzen.net
   - DOMAIN,consent.irvinecompany.com
@@ -28245,6 +28249,7 @@ payload:
   - DOMAIN,d3c.life
   - DOMAIN,d3c.site
   - DOMAIN,d3d7a0q05k6bvz.cloudfront.net
+  - DOMAIN,d3edbb478c.com
   - DOMAIN,d3f3.xyz
   - DOMAIN,d3g.qq.com
   - DOMAIN,d3g4a.cyou
@@ -28485,6 +28490,7 @@ payload:
   - DOMAIN,danaaman.xyz
   - DOMAIN,danainstan.xyz
   - DOMAIN,danapintar.club
+  - DOMAIN,danatrak.com
   - DOMAIN,danban.com
   - DOMAIN,danbo.org
   - DOMAIN,dancefordamazed.com
@@ -35284,6 +35290,7 @@ payload:
   - DOMAIN,dzliege.com
   - DOMAIN,dzlndygh.com
   - DOMAIN,dzsevh.voyage-prive.com
+  - DOMAIN,dzsopgxm.com
   - DOMAIN,dzsorpf.com
   - DOMAIN,dztatn.soulberry.jp
   - DOMAIN,dzubavstal.com
@@ -46423,6 +46430,7 @@ payload:
   - DOMAIN,graivampouth.net
   - DOMAIN,graizoah.com
   - DOMAIN,graizout.net
+  - DOMAIN,grallichalvas.com
   - DOMAIN,gralneurooly.com
   - DOMAIN,gramashmonthly.website
   - DOMAIN,grammaracorn.com
@@ -48531,6 +48539,7 @@ payload:
   - DOMAIN,hdickeu.top
   - DOMAIN,hdicsm.autoscout24.be
   - DOMAIN,hdipsumu.top
+  - DOMAIN,hdjthzg.cn
   - DOMAIN,hdluzy.safarilounge.jp
   - DOMAIN,hdmoviefull.com
   - DOMAIN,hdmovieon.com
@@ -55354,6 +55363,7 @@ payload:
   - DOMAIN,jiawen88.com
   - DOMAIN,jiayuwl.com
   - DOMAIN,jiazhua.com
+  - DOMAIN,jibbahazara.top
   - DOMAIN,jibn12.jintang114.org
   - DOMAIN,jibonerareknamtaka.com
   - DOMAIN,jibyrm.jeep-official.it
@@ -55583,6 +55593,7 @@ payload:
   - DOMAIN,joberopolicycr.com
   - DOMAIN,jobeyeball.com
   - DOMAIN,jobfilletfortitude.com
+  - DOMAIN,jobfukectivetr.com
   - DOMAIN,joblessdrum.com
   - DOMAIN,joblouder.com
   - DOMAIN,jobs.date-fns.org
@@ -55728,6 +55739,7 @@ payload:
   - DOMAIN,jootpb.foot-store.fr
   - DOMAIN,joozoowoak.net
   - DOMAIN,jopbvpsglwfm.com
+  - DOMAIN,joptodsougegauw.com
   - DOMAIN,joqawz.snipes.nl
   - DOMAIN,joqowqyaarewj.top
   - DOMAIN,jorbfstarn.com
@@ -61381,6 +61393,7 @@ payload:
   - DOMAIN,locate.findfashionevents.com
   - DOMAIN,locatedstructure.com
   - DOMAIN,locatejav182.fun
+  - DOMAIN,locatejest.com
   - DOMAIN,location.imsmetals.com
   - DOMAIN,location.ximalaya.com
   - DOMAIN,locationaircondition.com
@@ -62940,6 +62953,7 @@ payload:
   - DOMAIN,lznfuab.xyz
   - DOMAIN,lzoasvofvzw.com
   - DOMAIN,lzp.plus
+  - DOMAIN,lzqmjakwlllvk.top
   - DOMAIN,lzrhay.farmaciasoccavo.it
   - DOMAIN,lzrkfp.shoppbs.org
   - DOMAIN,lzrljv.tradera.com
@@ -74624,6 +74638,7 @@ payload:
   - DOMAIN,omtrns.sstats.q8.dk
   - DOMAIN,omvenusaurchan.com
   - DOMAIN,omvzcq.vidaxl.be
+  - DOMAIN,omwovzodgck.com
   - DOMAIN,omxodt.shredoptics.com
   - DOMAIN,omxstakuvh.com
   - DOMAIN,omxwt.cn
@@ -75476,6 +75491,7 @@ payload:
   - DOMAIN,osd-onead.cdn.hinet.net
   - DOMAIN,osd.oxygem.it
   - DOMAIN,osdmuxzag.com
+  - DOMAIN,osdxx.com
   - DOMAIN,osekwacuoxt.xyz
   - DOMAIN,oselamousey.com
   - DOMAIN,osezny.intheswim.com
@@ -76265,6 +76281,7 @@ payload:
   - DOMAIN,pa5ka.com
   - DOMAIN,pa5xjc.m1guelpf.me
   - DOMAIN,pabgey.siepomaga.pl
+  - DOMAIN,pabidding.io
   - DOMAIN,pac.thescottishsun.co.uk
   - DOMAIN,pac.thesun.co.uk
   - DOMAIN,pac.thetimes.co.uk
@@ -81776,6 +81793,7 @@ payload:
   - DOMAIN,pxene.com
   - DOMAIN,pxgpnp.angara.com
   - DOMAIN,pxhqoy.clothingshoponline.com
+  - DOMAIN,pxhuiben.com
   - DOMAIN,pxinqe.koffer-to-go.de
   - DOMAIN,pxjkbj.bostonproper.com
   - DOMAIN,pxkvpx.euro-fh.de
@@ -85001,6 +85019,7 @@ payload:
   - DOMAIN,rirtoojoaw.net
   - DOMAIN,risausso.com
   - DOMAIN,riscati.com
+  - DOMAIN,riscats.com
   - DOMAIN,riscil.com
   - DOMAIN,risehack.com
   - DOMAIN,riseshamelessdrawers.com
@@ -86243,6 +86262,7 @@ payload:
   - DOMAIN,ruzwraxcugta.com
   - DOMAIN,rv-syzfedv.rocks
   - DOMAIN,rvadnet.com
+  - DOMAIN,rvardsusyseinp.org
   - DOMAIN,rvbqze.albamoda.de
   - DOMAIN,rvddfchkj.xyz
   - DOMAIN,rvdnyq.topito.com
@@ -86742,6 +86762,7 @@ payload:
   - DOMAIN,s7feh.top
   - DOMAIN,s8.aomg5bzv7.com
   - DOMAIN,s811.ketv.com
+  - DOMAIN,s83.fun
   - DOMAIN,s861531437.sc.origins.en25.com
   - DOMAIN,s8x1.com
   - DOMAIN,s99i.org
@@ -89617,6 +89638,7 @@ payload:
   - DOMAIN,seyfwl.smaker.pl
   - DOMAIN,seyfwl.styl.pl
   - DOMAIN,seyfwl.swiatkobiety.pl
+  - DOMAIN,seymourlamboy.com
   - DOMAIN,sezixz.officesupply.com
   - DOMAIN,sezvc.com
   - DOMAIN,sezwho.com
@@ -99807,6 +99829,7 @@ payload:
   - DOMAIN,stream-direct.co
   - DOMAIN,stream-log.dditscdn.com
   - DOMAIN,stream.corporatefinanceinstitute.com
+  - DOMAIN,stream.datago.ru
   - DOMAIN,stream.spongead.com
   - DOMAIN,stream3.aomg5bzv7.com
   - DOMAIN,stream7.info
