@@ -1,6 +1,6 @@
 # 规则名称: AdBlock
-# 规则数量: 121868
-# 更新时间: 2025-01-12 19:56:50
+# 规则数量: 121871
+# 更新时间: 2025-01-13 07:57:04
 
 no_resolve: true
 domain_set:
@@ -22152,6 +22152,7 @@ domain_suffix_set:
 - cdnweb3.pages.dev
 - cdnwidget.com
 - cdolhlwq.xyz
+- cdomsif.top
 - cdoqjxlnegnhm.com
 - cdoshbf.top
 - cdotrvjaiupk.com
@@ -36482,6 +36483,7 @@ domain_suffix_set:
 - eisasbeautifula.info
 - eisasbeautifulas.com
 - eisdog.shape.com
+- eisnaisv.com
 - eit3.destinia.nl
 - eiteribesshaints.com
 - eitfromtheothe.org
@@ -81420,6 +81422,7 @@ domain_suffix_set:
 - pugmillmuspike.life
 - pugsgivehugs.com
 - puhlu.com
+- puhmtt.icu
 - puhtml.com
 - puitaexb.com
 - puiwrs.misterspex.de

@@ -1,6 +1,6 @@
 # 规则名称: Antiad
-# 规则数量: 121866
-# 更新时间: 2025-01-12 19:56:50
+# 规则数量: 121869
+# 更新时间: 2025-01-13 07:57:04
 
 payload:
   - DOMAIN,0.101tubeporn.com
@@ -22150,6 +22150,7 @@ payload:
   - DOMAIN,cdnweb3.pages.dev
   - DOMAIN,cdnwidget.com
   - DOMAIN,cdolhlwq.xyz
+  - DOMAIN,cdomsif.top
   - DOMAIN,cdoqjxlnegnhm.com
   - DOMAIN,cdoshbf.top
   - DOMAIN,cdotrvjaiupk.com
@@ -36480,6 +36481,7 @@ payload:
   - DOMAIN,eisasbeautifula.info
   - DOMAIN,eisasbeautifulas.com
   - DOMAIN,eisdog.shape.com
+  - DOMAIN,eisnaisv.com
   - DOMAIN,eit3.destinia.nl
   - DOMAIN,eiteribesshaints.com
   - DOMAIN,eitfromtheothe.org
@@ -81418,6 +81420,7 @@ payload:
   - DOMAIN,pugmillmuspike.life
   - DOMAIN,pugsgivehugs.com
   - DOMAIN,puhlu.com
+  - DOMAIN,puhmtt.icu
   - DOMAIN,puhtml.com
   - DOMAIN,puitaexb.com
   - DOMAIN,puiwrs.misterspex.de
