@@ -1,6 +1,6 @@
 # 规则名称: Antiad
-# 规则数量: 122580
-# 更新时间: 2025-01-14 19:56:49
+# 规则数量: 122590
+# 更新时间: 2025-01-15 07:56:51
 
 payload:
   - DOMAIN,0.101tubeporn.com
@@ -2102,6 +2102,7 @@ payload:
   - DOMAIN,4vgyjja.cn
   - DOMAIN,4wad.com
   - DOMAIN,4we.icu
+  - DOMAIN,4wm.fun
   - DOMAIN,4wnet.com
   - DOMAIN,4wnetwork.com
   - DOMAIN,4wu3gf.cn
@@ -2959,6 +2960,7 @@ payload:
   - DOMAIN,7xsf3h.com1.z0.glb.clouddn.com
   - DOMAIN,7yn3oczzo.com
   - DOMAIN,7z66.com
+  - DOMAIN,7zb.fun
   - DOMAIN,7zip.fr
   - DOMAIN,8.y2sysv81v.com
   - DOMAIN,8002.79j68qav2.com
@@ -19875,6 +19877,7 @@ payload:
   - DOMAIN,breizh-ile.fr
   - DOMAIN,brekus.org
   - DOMAIN,brendanbc.com
+  - DOMAIN,brephras.com
   - DOMAIN,brespark.eccocar.com
   - DOMAIN,bretaverett.com
   - DOMAIN,brevnet.eccocar.com
@@ -38192,6 +38195,7 @@ payload:
   - DOMAIN,esjvrfq.com
   - DOMAIN,eskilhavena.info
   - DOMAIN,eskimi.com
+  - DOMAIN,eskux.xyz
   - DOMAIN,esl-case.org
   - DOMAIN,esl-cases.org
   - DOMAIN,esl-cup.ru
@@ -44547,6 +44551,7 @@ payload:
   - DOMAIN,getyourgiftnow2.blogspot.com
   - DOMAIN,getyourgiftnow3.blogspot.com
   - DOMAIN,getyoursoft.ru
+  - DOMAIN,geuba.xyz
   - DOMAIN,gevkmopw9i3xq7kw.n3kijf75r.com
   - DOMAIN,gevmrjok.com
   - DOMAIN,gevzke.annonces-automobile.com
@@ -56935,6 +56940,7 @@ payload:
   - DOMAIN,kdlsdk.neverfullydressed.co.uk
   - DOMAIN,kdmjvnk.com
   - DOMAIN,kdmmm.cn
+  - DOMAIN,kdomsid.top
   - DOMAIN,kdopag.xyz
   - DOMAIN,kdoshbd.top
   - DOMAIN,kdpic.pchome.com.tw
@@ -58034,6 +58040,7 @@ payload:
   - DOMAIN,kyaywy.xyz
   - DOMAIN,kybsbf.ruleoneproteins.com
   - DOMAIN,kybsbwuej.com
+  - DOMAIN,kychq.cn
   - DOMAIN,kydb.xyz
   - DOMAIN,kydcwp.landwirt.com
   - DOMAIN,kyemwo.xyz
@@ -114190,6 +114197,7 @@ payload:
   - DOMAIN,vmap.v.ad-generation.jp
   - DOMAIN,vmauw.space
   - DOMAIN,vmbzhfh.cn
+  - DOMAIN,vmcnl.xyz
   - DOMAIN,vmcsatellite.com
   - DOMAIN,vmcxdaynkhnekp.com
   - DOMAIN,vmdlxj.xyz
@@ -117343,6 +117351,7 @@ payload:
   - DOMAIN,wurst.leffis.de
   - DOMAIN,wurtkoxudcka.com
   - DOMAIN,wurzfs.motherhood.com
+  - DOMAIN,wusfa.xyz
   - DOMAIN,wussucko.com
   - DOMAIN,wutrroqixat.com
   - DOMAIN,wutseelo.xyz
@@ -119852,6 +119861,7 @@ payload:
   - DOMAIN,xmsqz.com
   - DOMAIN,xmultiply.pro
   - DOMAIN,xmvftaoz.com
+  - DOMAIN,xmvxo.xyz
   - DOMAIN,xmxupz.xyz
   - DOMAIN,xmyvhu.soxo.pl
   - DOMAIN,xmywlyh.cn

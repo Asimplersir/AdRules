@@ -1,6 +1,6 @@
 # 规则名称: AdBlock
-# 规则数量: 122582
-# 更新时间: 2025-01-14 19:56:48
+# 规则数量: 122592
+# 更新时间: 2025-01-15 07:56:51
 
 no_resolve: true
 domain_set:
@@ -2104,6 +2104,7 @@ domain_suffix_set:
 - 4vgyjja.cn
 - 4wad.com
 - 4we.icu
+- 4wm.fun
 - 4wnet.com
 - 4wnetwork.com
 - 4wu3gf.cn
@@ -2961,6 +2962,7 @@ domain_suffix_set:
 - 7xsf3h.com1.z0.glb.clouddn.com
 - 7yn3oczzo.com
 - 7z66.com
+- 7zb.fun
 - 7zip.fr
 - 8.y2sysv81v.com
 - 8002.79j68qav2.com
@@ -19877,6 +19879,7 @@ domain_suffix_set:
 - breizh-ile.fr
 - brekus.org
 - brendanbc.com
+- brephras.com
 - brespark.eccocar.com
 - bretaverett.com
 - brevnet.eccocar.com
@@ -38194,6 +38197,7 @@ domain_suffix_set:
 - esjvrfq.com
 - eskilhavena.info
 - eskimi.com
+- eskux.xyz
 - esl-case.org
 - esl-cases.org
 - esl-cup.ru
@@ -44549,6 +44553,7 @@ domain_suffix_set:
 - getyourgiftnow2.blogspot.com
 - getyourgiftnow3.blogspot.com
 - getyoursoft.ru
+- geuba.xyz
 - gevkmopw9i3xq7kw.n3kijf75r.com
 - gevmrjok.com
 - gevzke.annonces-automobile.com
@@ -56937,6 +56942,7 @@ domain_suffix_set:
 - kdlsdk.neverfullydressed.co.uk
 - kdmjvnk.com
 - kdmmm.cn
+- kdomsid.top
 - kdopag.xyz
 - kdoshbd.top
 - kdpic.pchome.com.tw
@@ -58036,6 +58042,7 @@ domain_suffix_set:
 - kyaywy.xyz
 - kybsbf.ruleoneproteins.com
 - kybsbwuej.com
+- kychq.cn
 - kydb.xyz
 - kydcwp.landwirt.com
 - kyemwo.xyz
@@ -114192,6 +114199,7 @@ domain_suffix_set:
 - vmap.v.ad-generation.jp
 - vmauw.space
 - vmbzhfh.cn
+- vmcnl.xyz
 - vmcsatellite.com
 - vmcxdaynkhnekp.com
 - vmdlxj.xyz
@@ -117345,6 +117353,7 @@ domain_suffix_set:
 - wurst.leffis.de
 - wurtkoxudcka.com
 - wurzfs.motherhood.com
+- wusfa.xyz
 - wussucko.com
 - wutrroqixat.com
 - wutseelo.xyz
@@ -119854,6 +119863,7 @@ domain_suffix_set:
 - xmsqz.com
 - xmultiply.pro
 - xmvftaoz.com
+- xmvxo.xyz
 - xmxupz.xyz
 - xmyvhu.soxo.pl
 - xmywlyh.cn
