@@ -1,6 +1,6 @@
 # 规则名称: AdBlock
-# 规则数量: 122667
-# 更新时间: 2025-01-17 19:56:53
+# 规则数量: 122670
+# 更新时间: 2025-01-18 07:56:49
 
 no_resolve: true
 domain_set:
@@ -2103,6 +2103,7 @@ domain_suffix_set:
 - 4t6u.icu
 - 4th3d48.com
 - 4ufiles.com
+- 4ve.fun
 - 4vgyjja.cn
 - 4wad.com
 - 4we.icu
@@ -3232,6 +3233,7 @@ domain_suffix_set:
 - 8suis.top
 - 8t9he.cyou
 - 8trd.online
+- 8u0.fun
 - 8ue4rp6yxyis.www.tapmyback.com
 - 8v1.cn
 - 8vwxqg.tapin.gg
@@ -78641,6 +78643,7 @@ domain_suffix_set:
 - pheekoamek.net
 - pheepudo.net
 - pheersie.com
+- pheetuth.com
 - pheftoud.com
 - phendimetrazine.1.p2l.info
 - pheniter.com
