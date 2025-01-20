@@ -1,6 +1,6 @@
 # 规则名称: AdBlock
-# 规则数量: 122723
-# 更新时间: 2025-01-20 07:56:58
+# 规则数量: 122736
+# 更新时间: 2025-01-20 19:56:59
 
 no_resolve: true
 domain_set:
@@ -2033,6 +2033,7 @@ domain_suffix_set:
 - 4c935d6a244f.com
 - 4c9844316f.e7d9861b83.com
 - 4cd8d0b494.773fd92793.com
+- 4ce.fun
 - 4cinsights.com
 - 4co7mbsb.de
 - 4cx5.icu
@@ -12932,6 +12933,7 @@ domain_suffix_set:
 - animaterecover.com
 - animationfullmovie.com
 - animaux.oworld.fr
+- animeshoppers.com
 - animikii-ana.com
 - animits.com
 - animoseelegy.top
@@ -17657,6 +17659,7 @@ domain_suffix_set:
 - beauty1.xyz
 - beautysolution24.com
 - beautyspaguide.com
+- beautyt.shop
 - beaver.bluebunnypaper.com
 - beaver.ecosecretariat.org
 - beaver.livechatlabs.com
@@ -20277,6 +20280,7 @@ domain_suffix_set:
 - budgetportrait.com
 - budgetwizard.io
 - budibu.saksfifthavenue.com
+- budm.shop
 - budsinc.com
 - budsminepatent.com
 - budvawshes.ru
@@ -20770,6 +20774,7 @@ domain_suffix_set:
 - c-nfa.jd.com
 - c-piscine.fr
 - c-t.topya.com
+- c-tozluxury.shop
 - c-trzylshv.vip
 - c.28rv.com
 - c.albss.com
@@ -21925,6 +21930,7 @@ domain_suffix_set:
 - ccn08sth.de
 - ccnim.xyz
 - ccobksxz.icu
+- ccokamif.top
 - ccpa-script.psg.nexstardigital.net
 - ccpa.psg.nexstardigital.net
 - ccpa.sp-prod.net
@@ -41340,7 +41346,6 @@ domain_suffix_set:
 - fliplens.com
 - flipool.com
 - flippantguilt.com
-- flippback.com
 - flipshope.com
 - flirtatiousconsultyoung.com
 - flirtclickmatches.life
@@ -42324,6 +42329,7 @@ domain_suffix_set:
 - freedom-5g.com
 - freedom-ca-5g.com
 - freedom.service-update3.com
+- freedomgift50.com
 - freedominfo.net
 - freedomofsoftware.com
 - freedomsaved.com
@@ -42759,6 +42765,7 @@ domain_suffix_set:
 - front-perf.imoim.net
 - front.optimonk.com
 - frontcognizance.com
+- frontend-logger.flippback.com
 - fronthlpr.com
 - frontier-aweme-hl.snssdk.com
 - frontier.musical.ly
@@ -43812,6 +43819,7 @@ domain_suffix_set:
 - gauntletslacken.com
 - gaupaufi.net
 - gaupsaur.xyz
+- gauqoith.com
 - gaushaih.xyz
 - gaustele.xyz
 - gaut-hil.com
@@ -47992,6 +48000,7 @@ domain_suffix_set:
 - h6.helenrosi.com
 - h689.nydailynews.com
 - h6cp.icu
+- h6o.fun
 - h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 - h7.helenrosi.com
 - h731.icu
@@ -69405,6 +69414,7 @@ domain_suffix_set:
 - missitzantiot.com
 - misslinkvocation.com
 - misslk.com
+- missmatch3-addressdelivery.mails-5v6i15.aww9lv2.shop
 - misspelluptown.com
 - misspkl.com
 - misstaycedule.com
@@ -71762,6 +71772,7 @@ domain_suffix_set:
 - navi100.com
 - navi11.com
 - navi12.com
+- navi12.ru
 - navi18.com
 - navi2.com
 - navi20.ru
@@ -71781,9 +71792,9 @@ domain_suffix_set:
 - navi38.ru
 - navi39.ru
 - navi4.com
+- navi42.ru
 - navi45.ru
 - navi5.com
-- navi5.ru
 - navi50.com
 - navi53.com
 - navi54.com
@@ -71801,7 +71812,6 @@ domain_suffix_set:
 - navi8.com
 - navi86.ru
 - navi88.com
-- navi94.ru
 - navi99.com
 - naviblue-team.com
 - navigablepiercing.com
@@ -78541,6 +78551,7 @@ domain_suffix_set:
 - pf.intuit.com
 - pf.newegg.com
 - pf34zdjoeycr.com
+- pfbmht.icu
 - pfconm.koleso.ru
 - pfdth.cn
 - pfepfe.cc
@@ -83054,6 +83065,7 @@ domain_suffix_set:
 - qtroytj33.fun
 - qtspkqzn.com
 - qttfwb.shaneco.com
+- qttlpn.shop
 - qtuopsqmunzo.com
 - qtuxulczymu.com
 - qtxxdm.levi.jp
@@ -86074,6 +86086,7 @@ domain_suffix_set:
 - rpfqvl.mikroklima.de
 - rpfree.com
 - rpfree4.me
+- rpfuvj.icu
 - rpfytkt.com
 - rpgenerator.net
 - rpgmasterleague.com
@@ -87669,6 +87682,7 @@ domain_suffix_set:
 - sadsaunsord.com
 - saec-metrics.base.be
 - saec-metrics.telenet.be
+- saelphol.com
 - safe-cheats.com
 - safe-connection21.com
 - safe-files.com
@@ -100162,7 +100176,6 @@ domain_suffix_set:
 - steamkeygiveaway.com
 - steamkeysfree.com
 - steammarketcap.com
-- steammcommunuty.ru
 - steammoneyhack.com
 - steamplatform.wtf
 - steamskins.ru
@@ -100438,7 +100451,6 @@ domain_suffix_set:
 - storeax.com
 - storecollegeonline.com
 - storeconfig.mistat.intl.xiaomi.com
-- storedarkness.com
 - storefiles.me
 - storegiftcardgiveaways.com
 - storelive.co
@@ -111037,6 +111049,7 @@ domain_suffix_set:
 - tutsterblanche.com
 - tutvp.com
 - tuvevx.agent-sana.com
+- tuvrutsnf.com
 - tuvtpxp.cn
 - tuvwryunm.xyz
 - tuwaqtjcood.com
@@ -117312,7 +117325,6 @@ domain_suffix_set:
 - wryqahbilc.com
 - ws-goguardian.pusher.com
 - ws.audioeye.com
-- ws.existingcustomer.live
 - ws.ksmobile.net
 - ws.progrss.yahoo.com
 - ws.wenshenxiu.com
@@ -119059,6 +119071,7 @@ domain_suffix_set:
 - wyxcb3.top
 - wyyipndemngo.com
 - wyzdlu.arhaus.com
+- wyzia-orderdeposits.com
 - wyzq.rehuwang.com
 - wz.allianz.fr
 - wzavyi.whitewall.com

@@ -1,6 +1,6 @@
 # 规则名称: Antiad
-# 规则数量: 122721
-# 更新时间: 2025-01-20 07:56:58
+# 规则数量: 122734
+# 更新时间: 2025-01-20 19:56:59
 
 payload:
   - DOMAIN,0.101tubeporn.com
@@ -2031,6 +2031,7 @@ payload:
   - DOMAIN,4c935d6a244f.com
   - DOMAIN,4c9844316f.e7d9861b83.com
   - DOMAIN,4cd8d0b494.773fd92793.com
+  - DOMAIN,4ce.fun
   - DOMAIN,4cinsights.com
   - DOMAIN,4co7mbsb.de
   - DOMAIN,4cx5.icu
@@ -12930,6 +12931,7 @@ payload:
   - DOMAIN,animaterecover.com
   - DOMAIN,animationfullmovie.com
   - DOMAIN,animaux.oworld.fr
+  - DOMAIN,animeshoppers.com
   - DOMAIN,animikii-ana.com
   - DOMAIN,animits.com
   - DOMAIN,animoseelegy.top
@@ -17655,6 +17657,7 @@ payload:
   - DOMAIN,beauty1.xyz
   - DOMAIN,beautysolution24.com
   - DOMAIN,beautyspaguide.com
+  - DOMAIN,beautyt.shop
   - DOMAIN,beaver.bluebunnypaper.com
   - DOMAIN,beaver.ecosecretariat.org
   - DOMAIN,beaver.livechatlabs.com
@@ -20275,6 +20278,7 @@ payload:
   - DOMAIN,budgetportrait.com
   - DOMAIN,budgetwizard.io
   - DOMAIN,budibu.saksfifthavenue.com
+  - DOMAIN,budm.shop
   - DOMAIN,budsinc.com
   - DOMAIN,budsminepatent.com
   - DOMAIN,budvawshes.ru
@@ -20768,6 +20772,7 @@ payload:
   - DOMAIN,c-nfa.jd.com
   - DOMAIN,c-piscine.fr
   - DOMAIN,c-t.topya.com
+  - DOMAIN,c-tozluxury.shop
   - DOMAIN,c-trzylshv.vip
   - DOMAIN,c.28rv.com
   - DOMAIN,c.albss.com
@@ -21923,6 +21928,7 @@ payload:
   - DOMAIN,ccn08sth.de
   - DOMAIN,ccnim.xyz
   - DOMAIN,ccobksxz.icu
+  - DOMAIN,ccokamif.top
   - DOMAIN,ccpa-script.psg.nexstardigital.net
   - DOMAIN,ccpa.psg.nexstardigital.net
   - DOMAIN,ccpa.sp-prod.net
@@ -41338,7 +41344,6 @@ payload:
   - DOMAIN,fliplens.com
   - DOMAIN,flipool.com
   - DOMAIN,flippantguilt.com
-  - DOMAIN,flippback.com
   - DOMAIN,flipshope.com
   - DOMAIN,flirtatiousconsultyoung.com
   - DOMAIN,flirtclickmatches.life
@@ -42322,6 +42327,7 @@ payload:
   - DOMAIN,freedom-5g.com
   - DOMAIN,freedom-ca-5g.com
   - DOMAIN,freedom.service-update3.com
+  - DOMAIN,freedomgift50.com
   - DOMAIN,freedominfo.net
   - DOMAIN,freedomofsoftware.com
   - DOMAIN,freedomsaved.com
@@ -42757,6 +42763,7 @@ payload:
   - DOMAIN,front-perf.imoim.net
   - DOMAIN,front.optimonk.com
   - DOMAIN,frontcognizance.com
+  - DOMAIN,frontend-logger.flippback.com
   - DOMAIN,fronthlpr.com
   - DOMAIN,frontier-aweme-hl.snssdk.com
   - DOMAIN,frontier.musical.ly
@@ -43810,6 +43817,7 @@ payload:
   - DOMAIN,gauntletslacken.com
   - DOMAIN,gaupaufi.net
   - DOMAIN,gaupsaur.xyz
+  - DOMAIN,gauqoith.com
   - DOMAIN,gaushaih.xyz
   - DOMAIN,gaustele.xyz
   - DOMAIN,gaut-hil.com
@@ -47990,6 +47998,7 @@ payload:
   - DOMAIN,h6.helenrosi.com
   - DOMAIN,h689.nydailynews.com
   - DOMAIN,h6cp.icu
+  - DOMAIN,h6o.fun
   - DOMAIN,h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
   - DOMAIN,h7.helenrosi.com
   - DOMAIN,h731.icu
@@ -69403,6 +69412,7 @@ payload:
   - DOMAIN,missitzantiot.com
   - DOMAIN,misslinkvocation.com
   - DOMAIN,misslk.com
+  - DOMAIN,missmatch3-addressdelivery.mails-5v6i15.aww9lv2.shop
   - DOMAIN,misspelluptown.com
   - DOMAIN,misspkl.com
   - DOMAIN,misstaycedule.com
@@ -71760,6 +71770,7 @@ payload:
   - DOMAIN,navi100.com
   - DOMAIN,navi11.com
   - DOMAIN,navi12.com
+  - DOMAIN,navi12.ru
   - DOMAIN,navi18.com
   - DOMAIN,navi2.com
   - DOMAIN,navi20.ru
@@ -71779,9 +71790,9 @@ payload:
   - DOMAIN,navi38.ru
   - DOMAIN,navi39.ru
   - DOMAIN,navi4.com
+  - DOMAIN,navi42.ru
   - DOMAIN,navi45.ru
   - DOMAIN,navi5.com
-  - DOMAIN,navi5.ru
   - DOMAIN,navi50.com
   - DOMAIN,navi53.com
   - DOMAIN,navi54.com
@@ -71799,7 +71810,6 @@ payload:
   - DOMAIN,navi8.com
   - DOMAIN,navi86.ru
   - DOMAIN,navi88.com
-  - DOMAIN,navi94.ru
   - DOMAIN,navi99.com
   - DOMAIN,naviblue-team.com
   - DOMAIN,navigablepiercing.com
@@ -78539,6 +78549,7 @@ payload:
   - DOMAIN,pf.intuit.com
   - DOMAIN,pf.newegg.com
   - DOMAIN,pf34zdjoeycr.com
+  - DOMAIN,pfbmht.icu
   - DOMAIN,pfconm.koleso.ru
   - DOMAIN,pfdth.cn
   - DOMAIN,pfepfe.cc
@@ -83052,6 +83063,7 @@ payload:
   - DOMAIN,qtroytj33.fun
   - DOMAIN,qtspkqzn.com
   - DOMAIN,qttfwb.shaneco.com
+  - DOMAIN,qttlpn.shop
   - DOMAIN,qtuopsqmunzo.com
   - DOMAIN,qtuxulczymu.com
   - DOMAIN,qtxxdm.levi.jp
@@ -86072,6 +86084,7 @@ payload:
   - DOMAIN,rpfqvl.mikroklima.de
   - DOMAIN,rpfree.com
   - DOMAIN,rpfree4.me
+  - DOMAIN,rpfuvj.icu
   - DOMAIN,rpfytkt.com
   - DOMAIN,rpgenerator.net
   - DOMAIN,rpgmasterleague.com
@@ -87667,6 +87680,7 @@ payload:
   - DOMAIN,sadsaunsord.com
   - DOMAIN,saec-metrics.base.be
   - DOMAIN,saec-metrics.telenet.be
+  - DOMAIN,saelphol.com
   - DOMAIN,safe-cheats.com
   - DOMAIN,safe-connection21.com
   - DOMAIN,safe-files.com
@@ -100160,7 +100174,6 @@ payload:
   - DOMAIN,steamkeygiveaway.com
   - DOMAIN,steamkeysfree.com
   - DOMAIN,steammarketcap.com
-  - DOMAIN,steammcommunuty.ru
   - DOMAIN,steammoneyhack.com
   - DOMAIN,steamplatform.wtf
   - DOMAIN,steamskins.ru
@@ -100436,7 +100449,6 @@ payload:
   - DOMAIN,storeax.com
   - DOMAIN,storecollegeonline.com
   - DOMAIN,storeconfig.mistat.intl.xiaomi.com
-  - DOMAIN,storedarkness.com
   - DOMAIN,storefiles.me
   - DOMAIN,storegiftcardgiveaways.com
   - DOMAIN,storelive.co
@@ -111035,6 +111047,7 @@ payload:
   - DOMAIN,tutsterblanche.com
   - DOMAIN,tutvp.com
   - DOMAIN,tuvevx.agent-sana.com
+  - DOMAIN,tuvrutsnf.com
   - DOMAIN,tuvtpxp.cn
   - DOMAIN,tuvwryunm.xyz
   - DOMAIN,tuwaqtjcood.com
@@ -117310,7 +117323,6 @@ payload:
   - DOMAIN,wryqahbilc.com
   - DOMAIN,ws-goguardian.pusher.com
   - DOMAIN,ws.audioeye.com
-  - DOMAIN,ws.existingcustomer.live
   - DOMAIN,ws.ksmobile.net
   - DOMAIN,ws.progrss.yahoo.com
   - DOMAIN,ws.wenshenxiu.com
@@ -119057,6 +119069,7 @@ payload:
   - DOMAIN,wyxcb3.top
   - DOMAIN,wyyipndemngo.com
   - DOMAIN,wyzdlu.arhaus.com
+  - DOMAIN,wyzia-orderdeposits.com
   - DOMAIN,wyzq.rehuwang.com
   - DOMAIN,wz.allianz.fr
   - DOMAIN,wzavyi.whitewall.com
